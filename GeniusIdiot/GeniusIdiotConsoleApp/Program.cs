@@ -189,7 +189,7 @@ namespace GeniusIdiotConsoleApp
                 }
             }
         }
-
+        // комментарий - проверка Git
         // Неверное название функции. Что возвращается не соответствует названию функции
         // никаких сокращений пожалуйста
         static void GetResultFromFile(string dirName)
