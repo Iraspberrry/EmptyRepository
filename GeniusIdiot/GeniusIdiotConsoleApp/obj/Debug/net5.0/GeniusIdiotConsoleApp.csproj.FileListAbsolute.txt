@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\bin\Debug\net5.0\GeniusIdiotConsoleApp.exe
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\bin\Debug\net5.0\GeniusIdiotConsoleApp.deps.json
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\bin\Debug\net5.0\GeniusIdiotConsoleApp.runtimeconfig.json
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\bin\Debug\net5.0\GeniusIdiotConsoleApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\bin\Debug\net5.0\GeniusIdiotConsoleApp.dll
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\bin\Debug\net5.0\GeniusIdiotConsoleApp.pdb
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\GeniusIdiotConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\GeniusIdiotConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\GeniusIdiotConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\GeniusIdiotConsoleApp.AssemblyInfo.cs
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\GeniusIdiotConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\GeniusIdiotConsoleApp.dll
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\refint\GeniusIdiotConsoleApp.dll
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\GeniusIdiotConsoleApp.pdb
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\GeniusIdiotConsoleApp.genruntimeconfig.cache
+C:\Users\User\source\repos\GeniusIdiot\GeniusIdiotConsoleApp\obj\Debug\net5.0\ref\GeniusIdiotConsoleApp.dll
